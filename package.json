@@ -1,0 +1,23 @@
+{
+  "name": "random-colors",
+  "version": "0.0.0",
+  "description": "HTML Colors Generator grouped by hue",
+  "main": "colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stefanocudini/random-colors.git"
+  },
+  "keywords": [
+    "html5",
+    "javascript"
+  ],
+  "author": "Stefano Cudini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanocudini/random-colors/issues"
+  },
+  "homepage": "https://github.com/stefanocudini/random-colors"
+}
